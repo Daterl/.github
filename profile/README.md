@@ -88,6 +88,8 @@ Cortex AI 5개 기능 + ML FORECAST로 동네 추천·시세 예측까지 제공
 | Repo | Description |
 |------|-------------|
 | [dongne-mbti](https://github.com/Daterl/dongne-mbti) | 동네 MBTI — 서울 동네 성격 분석 서비스 (출품작) |
+| [isa-weather](https://github.com/Daterl/isa-weather) | 전국 이사 수요를 날씨 메타포로 시각화하는 Cortex AI 앱 |
+| [snowflake-hackathon-api-catalog](https://github.com/Daterl/snowflake-hackathon-api-catalog) | 데이터 제공 기업별 API/데이터셋 전수 조사 카탈로그 |
 | [skills](https://github.com/Daterl/skills) | 해커톤 자가 평가 스킬 등 Claude Code 스킬 모음 |
 
 <br/>
